@@ -20,6 +20,7 @@ namespace Economy
         private void button1_Click(object sender, EventArgs e)
         {
             int a;
+            int b;
         }
     }
 }
