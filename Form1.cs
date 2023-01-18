@@ -21,6 +21,7 @@ namespace Economy
         {
             int a;
             int b;
+            // i think this line make your code better
         }
     }
 }
